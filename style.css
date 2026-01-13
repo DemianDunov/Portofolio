@@ -3,7 +3,7 @@
   --bg-dark: #050505;
   --text: #ffffff;
   --muted: #9a9a9a;
-  --accent: #e10600;
+  --accent: #ffffff;
 }
 
 * {
@@ -127,7 +127,7 @@ nav a:hover {
   position: absolute;
   width: 300px;
   height: 300px;
-  background: radial-gradient(circle, #e10600, transparent 90%);
+  background: radial-gradient(circle, #ffffff, transparent 90%);
   filter: blur(80px);
   animation: pulse 3s infinite;
 }
